@@ -1,0 +1,26 @@
+# Build outputs
+/build/
+/cmake-build-*/
+*.o
+*.obj
+*.a
+*.lib
+*.exe
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+
+# Local development
+/.vs/
+/.vscode/
+*.user
+*.suo
+.DS_Store
+Thumbs.db
+
+# Input videos are distributed separately
+*.avi
+*.mp4
+*.mov
