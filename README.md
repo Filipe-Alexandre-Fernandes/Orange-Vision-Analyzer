@@ -1,5 +1,7 @@
 # Orange Vision Analyzer
 
+**Português** | [English](README.en.md)
+
 **Deteção, contagem e classificação de laranjas em vídeo, com C, C++ e OpenCV.**
 
 Projeto académico desenvolvido na unidade curricular de **Visão por Computador**, do 2.º ano da Licenciatura em Engenharia de Sistemas Informáticos, na Escola Superior de Tecnologia do **Instituto Politécnico do Cávado e do Ave (IPCA)**, no ano letivo **2025/2026**.
